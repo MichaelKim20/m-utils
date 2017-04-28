@@ -1,0 +1,14 @@
+{
+  "name": "m-utils",
+  "description": "a utility of node",
+  "author": "Mukeun Kim",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mukeunkim/m-utils.git"
+  },
+  "dependencies": {
+  },
+  "scripts": {
+  },
+  "version": "0.0.2"
+}
