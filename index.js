@@ -79,7 +79,7 @@ exports.getUniqueId = function() {
     return id;
 };
 
-exports.oformat = function() {
+exports.format = function() {
     var s = arguments[0];
     for (var i = 0; i < arguments.length - 1; i++) {
         var reg = new RegExp("\\{" + i + "\\}", "gm");
