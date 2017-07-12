@@ -1,4 +1,4 @@
-m-process-lock - a utility of node
+m-utils - a utility of node
 ===========================
 
 Install with:
